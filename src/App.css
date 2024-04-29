@@ -1,0 +1,24 @@
+.input-wrapper {
+  width: 100%;
+  text-align: center;
+  margin: 40px auto;
+}
+
+.country {
+  margin: 0 auto;
+  color: #888;
+  width: 80%;
+  max-width: 500px;
+  padding: 10px;
+  border-radius: 10px;
+  outline: 0;
+}
+
+.weather-details-wrapper {
+  width: 100%;
+  border-top: 2px solid #fff;
+}
+
+h1 {
+  text-align: center;
+}
